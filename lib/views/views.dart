@@ -1,0 +1,12 @@
+export 'splash_view.dart';
+export 'login_view.dart';
+export 'home_view.dart';
+export 'profile_view.dart';
+export 'dashboard_view.dart';
+export 'statistic_view.dart';
+export 'add_expense_view.dart';
+export 'wallet_view.dart';
+export 'transaction_view.dart';
+export 'add_type_view.dart';
+export 'settings_view.dart';
+export 'change_password_view.dart';
